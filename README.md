@@ -1,2 +1,2 @@
-# D3-web-projet02
-deuxieme
+# D3-WEB-PROJET2
+Deuxieme projet web
